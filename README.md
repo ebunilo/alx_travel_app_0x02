@@ -64,3 +64,16 @@ Key symbols:
    source .venv/bin/activate
    # ...existing code...
    ```
+
+## Test Result
+### Initiate Payment via Postman
+![Initiate Payment](images/initiate_payment.png)
+
+### Make Payment via Chapa
+![Chapa Payment UI](images/make_payment.png)
+
+### Successful Payment UI
+![Successful Payment UI](images/successful_payment.png)
+
+### Verify Payment via Chapa
+![Verify Payment](images/verify_payment.png)
